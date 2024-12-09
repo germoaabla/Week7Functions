@@ -1,0 +1,14 @@
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week7Functions\CalculatorWithFunctions\bin\Debug\net8.0\CalculatorWithFunctions.exe
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week7Functions\CalculatorWithFunctions\bin\Debug\net8.0\CalculatorWithFunctions.deps.json
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week7Functions\CalculatorWithFunctions\bin\Debug\net8.0\CalculatorWithFunctions.runtimeconfig.json
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week7Functions\CalculatorWithFunctions\bin\Debug\net8.0\CalculatorWithFunctions.dll
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week7Functions\CalculatorWithFunctions\bin\Debug\net8.0\CalculatorWithFunctions.pdb
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week7Functions\CalculatorWithFunctions\obj\Debug\net8.0\CalculatorWithFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week7Functions\CalculatorWithFunctions\obj\Debug\net8.0\CalculatorWithFunctions.AssemblyInfoInputs.cache
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week7Functions\CalculatorWithFunctions\obj\Debug\net8.0\CalculatorWithFunctions.AssemblyInfo.cs
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week7Functions\CalculatorWithFunctions\obj\Debug\net8.0\CalculatorWithFunctions.csproj.CoreCompileInputs.cache
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week7Functions\CalculatorWithFunctions\obj\Debug\net8.0\CalculatorWithFunctions.dll
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week7Functions\CalculatorWithFunctions\obj\Debug\net8.0\refint\CalculatorWithFunctions.dll
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week7Functions\CalculatorWithFunctions\obj\Debug\net8.0\CalculatorWithFunctions.pdb
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week7Functions\CalculatorWithFunctions\obj\Debug\net8.0\CalculatorWithFunctions.genruntimeconfig.cache
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week7Functions\CalculatorWithFunctions\obj\Debug\net8.0\ref\CalculatorWithFunctions.dll
